@@ -25,7 +25,7 @@ function buildDeck() {
             deck.push(values[j] + "-" + types[i]); 
         }
     }
-    // console.log(deck);
+    console.log(deck);
 }
 
 function shuffleDeck() {
